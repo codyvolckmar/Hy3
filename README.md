@@ -1,7 +1,7 @@
 # Hy3
-Comparrison of current top AI Models
 
-root@Agent-Cody:~/hy3# more HY3_ANALYSIS.md
+Comparison of current top AI Models
+
 # Hy3 Preview Analysis: Why It's Good and Cheap
 
 ## Overview
